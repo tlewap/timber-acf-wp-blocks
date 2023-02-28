@@ -31,6 +31,7 @@ Add twig templates to `views/blocks` which get and use ACF data. Each template r
   Align: left
   PostTypes: page post
   SupportsAlign: left right
+  SupportsAlignContent: true
   SupportsMode: false
   SupportsMultiple: false
 #}
